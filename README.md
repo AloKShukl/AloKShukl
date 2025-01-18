@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @AloKShukl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Innovative Java Developer | Crafting Scalable Solutions with Precision 🖥️ | Expertise in Spring Boot, Hibernate, and Full-Stack Development 🌟 | Passionate About Problem Solving and Clean Code ✨ | Let’s Build the Future Together 🚀"
+Alok Shukla.
+Java Developer.
 
-<!---
-AloKShukl/AloKShukl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
